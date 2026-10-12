@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/33316995/README.md)
 # Fixation of a Beneficial Mutation: Moran vs. Wright-Fisher
 
 Charlotte Barretto · MS Computational Biology, Carnegie Mellon University
