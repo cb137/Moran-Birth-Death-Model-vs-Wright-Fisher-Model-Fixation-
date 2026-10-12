@@ -1,7 +1,5 @@
 # Fixation of a Beneficial Mutation: Moran vs. Wright-Fisher
 
-Charlotte Barretto · MS Computational Biology, Carnegie Mellon University
-
 ![Moran and Wright-Fisher models, and how the code fits together](diagram.png)
 
 ## What this project asks
@@ -60,3 +58,5 @@ jupyter notebook
 ```
 
 Set the hyperparameters at the top of the execution cell (`N`, `initial_A`, `num_replicates`, `s_values`, `models`), then run all cells. Plots are saved as PNG files.
+
+Author ~ Charlotte Barretto 
